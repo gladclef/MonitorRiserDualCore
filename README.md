@@ -6,6 +6,9 @@ It uses the two cores on the ESP32 to monitor a rotary encoder and manage the ne
 ## Explainer Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UTzuSX66JvI" target="_blank"><img src="http://img.youtube.com/vi/UTzuSX66JvI/0.jpg" alt="Explainer Video" width="240" height="180" border="10" /></a>
 
+## I designed a PCB board!
+<img src="blob/master/resources/angled_view.jpg" width="400" height="300" border="10" />
+
 ## Parts
 * adafruit things: http://www.adafruit.com/wishlists/489413
 * 330 ohm resistors: https://www.sparkfun.com/products/11507
